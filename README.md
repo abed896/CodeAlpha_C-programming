@@ -1,2 +1,2 @@
-# CodeAlpha_C-programming
+# CodeAlpha_C++programming
 C++ programming project
